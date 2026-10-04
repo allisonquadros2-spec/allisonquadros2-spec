@@ -1,11 +1,3 @@
-
-
-<!--
-**allisonquadros2-spec/allisonquadros2-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 Allison Rodrigues
 
 Desenvolvedor Android Junior (Nativo)
